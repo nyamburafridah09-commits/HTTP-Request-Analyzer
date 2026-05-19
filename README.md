@@ -192,4 +192,4 @@ This project improved understanding of:
 
 Fridah Nyambura
 
-Cybersecurity and Information Security Student
+Cybersecurity and Information Security 
