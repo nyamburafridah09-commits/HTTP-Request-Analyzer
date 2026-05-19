@@ -181,6 +181,12 @@ This project improved understanding of:
 - Web application interaction
 
 ---
+<img width="2735" height="1735" alt="Screenshot 2026-05-19 181609" src="https://github.com/user-attachments/assets/534f252b-6b8f-45e5-ae23-38b509306cc3" />
+
+<img width="2735" height="1738" alt="Screenshot 2026-05-19 181345" src="https://github.com/user-attachments/assets/544c90b5-a8d1-4259-9673-0cd64ddec4ee" />
+
+<img width="2718" height="1723" alt="Screenshot 2026-05-19 181410" src="https://github.com/user-attachments/assets/85be7952-5176-45fe-9d87-18439e6a4e49" />
+
 
 # Author
 
